@@ -6,7 +6,7 @@ package com.lunatech.exercises.collections
  * All these exercises can be solved with a single method invocation on 
  * the input list, from one of the following methods:
  * 
- * drop, dropWhile, exists, filter, find, flatMap, flatten, 
+ * collect, drop, dropWhile, exists, filter, find, flatMap, flatten, 
  * fold, foldLeft, foldRight, forall, foreach, groupBy, headOption, 
  * length, map, partition, tail, take, takeWhile, toMap, zip
  */
